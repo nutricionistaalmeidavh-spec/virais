@@ -1,0 +1,15 @@
+{
+  "itens": [
+    {
+      "id": "exemplo-001",
+      "ferramenta": "NOME_DA_FERRAMENTA",
+      "repo": "https://github.com/dono/repo",
+      "licenca": "MIT",
+      "preco_software_pago": "R$ 0/mês (preencher)",
+      "limite_real": "preencher",
+      "publico_alvo": "PMEs",
+      "palavra_cta": "LINK",
+      "status": "ideia"
+    }
+  ]
+}
